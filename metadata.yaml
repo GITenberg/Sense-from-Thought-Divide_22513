@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '25374'
     url: http://www.gutenberg.org/2009/agents/25374
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22513#Sense-from-Thought-Divide
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-09-05'
 gutenberg_type: Text
